@@ -1,0 +1,21 @@
+{
+    "score": 32,
+    "tests_passed": 13,
+    "notes": {
+        "test_train_test_split": "PASS:",
+        "test_cross_validation": "PASS:",
+        "test_decision_tree_binary_predict": "FAIL:",
+        "test_decision_tree_continuous_predict": "FAIL:",
+        "test_information_gain": "FAIL:",
+        "test_decision_tree_run": "FAIL:",
+        "test_predict_mode": "PASS:",
+        "test_comparisons": "FAIL:",
+        "test_metrics": "FAIL:",
+        "test_hello_world": "PASS:",
+        "test_numpy_replace_nonfinite_in_place": "PASS:",
+        "test_numpy_replace_nans_out_of_place": "PASS:",
+        "test_numpy_find_mode": "PASS:",
+        "test_numpy_flip_and_slice_matrix": "PASS:",
+        "test_numpy_divide_matrix_along_rows": "PASS:"
+    }
+}
